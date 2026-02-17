@@ -1,0 +1,5 @@
+.card {
+  background: conic-gradient(from 0deg at 50% 50%, white 90deg, black 90deg, black 180deg, white 180deg, white 270deg, black 270deg, black 360deg);
+  background-size: 25% 25%;
+  /* background-repeat: no-repeat; */
+}

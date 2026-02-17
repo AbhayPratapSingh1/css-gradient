@@ -1,0 +1,7 @@
+.card {
+  background: linear-gradient(white), conic-gradient(from 135deg at 50% 50%, red, rgb(254, 89, 39) 20deg, red 45deg, rgb(254, 89, 39) 70deg, red 90deg, #00000000 90deg), linear-gradient(rgb(75, 41, 24)), radial-gradient(at 50% 100%, green, green 45%, rgba(0, 0, 0, 0) 50%), radial-gradient(rgb(243, 142, 27), rgb(243, 142, 27) 25%, rgb(255, 251, 11, 0) 30%), linear-gradient(rgb(88, 199, 255));
+  background-position: 50% 86%, 50% 0%, 50% 83%, 50% 100%, -5% -5%, 0% 0%;
+  background-size: 15% 25%, 50% 50%, 40% 40%, 400% 50%, 50% 50%, 100% 100%;
+  background-repeat: no-repeat;
+  animation: loader;
+}
